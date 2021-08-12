@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek singh
-- 👀 I’m interested in coding and error solving
+- 👀 I’m interested in coding and Error solving
 - 🌱 I’m currently learning python
 - 📫 How to reach me :- singh025.mohit@gmail.com
 
